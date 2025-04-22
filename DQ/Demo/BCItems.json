@@ -1,0 +1,1045 @@
+[
+  {
+    "No_": "1000",
+    "Description": "Bicycle",
+    "Unit Price": 4000.00000000000000000000,
+    "Unit Cost": 350.59500000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "1001",
+    "Description": "Touring Bicycle",
+    "Unit Price": 4000.00000000000000000000,
+    "Unit Cost": 350.59500000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "1100",
+    "Description": "Front Wheel",
+    "Unit Price": 1000.00000000000000000000,
+    "Unit Cost": 129.67100000000000000000,
+    "Vendor No_": "20000"
+  },
+  {
+    "No_": "1110",
+    "Description": "Rim",
+    "Unit Price": 0.00000000000000000000,
+    "Unit Cost": 1.05000000000000000000,
+    "Vendor No_": "01587796"
+  },
+  {
+    "No_": "1120",
+    "Description": "Spokes",
+    "Unit Price": 0.00000000000000000000,
+    "Unit Cost": 2.00000000000000000000,
+    "Vendor No_": "01587796"
+  },
+  {
+    "No_": "1150",
+    "Description": "Front Hub",
+    "Unit Price": 500.00000000000000000000,
+    "Unit Cost": 12.44100000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "1151",
+    "Description": "Axle Front Wheel",
+    "Unit Price": 0.00000000000000000000,
+    "Unit Cost": 0.45000000000000000000,
+    "Vendor No_": "32456123"
+  },
+  {
+    "No_": "1155",
+    "Description": "Socket Front",
+    "Unit Price": 0.00000000000000000000,
+    "Unit Cost": 0.77000000000000000000,
+    "Vendor No_": "32456123"
+  },
+  {
+    "No_": "1160",
+    "Description": "Tire",
+    "Unit Price": 0.00000000000000000000,
+    "Unit Cost": 1.23000000000000000000,
+    "Vendor No_": "01587796"
+  },
+  {
+    "No_": "1170",
+    "Description": "Tube",
+    "Unit Price": 0.00000000000000000000,
+    "Unit Cost": 1.75000000000000000000,
+    "Vendor No_": "01587796"
+  },
+  {
+    "No_": "1200",
+    "Description": "Back Wheel",
+    "Unit Price": 1200.00000000000000000000,
+    "Unit Cost": 129.68200000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "1250",
+    "Description": "Back Hub",
+    "Unit Price": 1100.00000000000000000000,
+    "Unit Cost": 12.45200000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "1251",
+    "Description": "Axle Back Wheel",
+    "Unit Price": 0.00000000000000000000,
+    "Unit Cost": 0.33000000000000000000,
+    "Vendor No_": "01587796"
+  },
+  {
+    "No_": "1255",
+    "Description": "Socket Back",
+    "Unit Price": 0.00000000000000000000,
+    "Unit Cost": 0.90000000000000000000,
+    "Vendor No_": "01587796"
+  },
+  {
+    "No_": "1300",
+    "Description": "Chain Assy",
+    "Unit Price": 800.00000000000000000000,
+    "Unit Cost": 13.15700000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "1310",
+    "Description": "Chain",
+    "Unit Price": 0.00000000000000000000,
+    "Unit Cost": 1.99000000000000000000,
+    "Vendor No_": "32456123"
+  },
+  {
+    "No_": "1320",
+    "Description": "Chain Wheel Front",
+    "Unit Price": 0.00000000000000000000,
+    "Unit Cost": 4.66000000000000000000,
+    "Vendor No_": "32456123"
+  },
+  {
+    "No_": "1330",
+    "Description": "Chain Wheel Back",
+    "Unit Price": 0.00000000000000000000,
+    "Unit Cost": 5.88000000000000000000,
+    "Vendor No_": "32456123"
+  },
+  {
+    "No_": "1400",
+    "Description": "Mudguard front",
+    "Unit Price": 0.00000000000000000000,
+    "Unit Cost": 3.90000000000000000000,
+    "Vendor No_": "32456123"
+  },
+  {
+    "No_": "1450",
+    "Description": "Mudguard back",
+    "Unit Price": 0.00000000000000000000,
+    "Unit Cost": 3.90000000000000000000,
+    "Vendor No_": "32456123"
+  },
+  {
+    "No_": "1500",
+    "Description": "Lamp",
+    "Unit Price": 0.00000000000000000000,
+    "Unit Cost": 5.20000000000000000000,
+    "Vendor No_": "45774477"
+  },
+  {
+    "No_": "1600",
+    "Description": "Bell",
+    "Unit Price": 0.00000000000000000000,
+    "Unit Cost": 2.70000000000000000000,
+    "Vendor No_": "32456123"
+  },
+  {
+    "No_": "1700",
+    "Description": "Brake",
+    "Unit Price": 600.00000000000000000000,
+    "Unit Cost": 9.76500000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "1710",
+    "Description": "Hand rear wheel Brake",
+    "Unit Price": 0.00000000000000000000,
+    "Unit Cost": 4.50000000000000000000,
+    "Vendor No_": "32456123"
+  },
+  {
+    "No_": "1720",
+    "Description": "Hand front wheel Brake",
+    "Unit Price": 0.00000000000000000000,
+    "Unit Cost": 4.80000000000000000000,
+    "Vendor No_": "01587796"
+  },
+  {
+    "No_": "1800",
+    "Description": "Handlebars",
+    "Unit Price": 0.00000000000000000000,
+    "Unit Cost": 2.12000000000000000000,
+    "Vendor No_": "01587796"
+  },
+  {
+    "No_": "1850",
+    "Description": "Saddle",
+    "Unit Price": 0.00000000000000000000,
+    "Unit Cost": 7.20000000000000000000,
+    "Vendor No_": "01587796"
+  },
+  {
+    "No_": "1896-S",
+    "Description": "ATHENS Desk",
+    "Unit Price": 1503.40000000000000000000,
+    "Unit Cost": 1172.70000000000000000000,
+    "Vendor No_": "30000"
+  },
+  {
+    "No_": "1900",
+    "Description": "Frame",
+    "Unit Price": 0.00000000000000000000,
+    "Unit Cost": 15.70000000000000000000,
+    "Vendor No_": "01587796"
+  },
+  {
+    "No_": "1900-S",
+    "Description": "PARIS Guest Chair, black",
+    "Unit Price": 289.60000000000000000000,
+    "Unit Cost": 225.80000000000000000000,
+    "Vendor No_": "20000"
+  },
+  {
+    "No_": "1906-S",
+    "Description": "ATHENS Mobile Pedestal",
+    "Unit Price": 651.40000000000000000000,
+    "Unit Cost": 508.10000000000000000000,
+    "Vendor No_": "30000"
+  },
+  {
+    "No_": "1908-S",
+    "Description": "LONDON Swivel Chair, blue",
+    "Unit Price": 285.50000000000000000000,
+    "Unit Cost": 222.50000000000000000000,
+    "Vendor No_": "30000"
+  },
+  {
+    "No_": "1920-S",
+    "Description": "ANTWERP Conference Table",
+    "Unit Price": 973.20000000000000000000,
+    "Unit Cost": 759.30000000000000000000,
+    "Vendor No_": "20000"
+  },
+  {
+    "No_": "1924-W",
+    "Description": "CHAMONIX Base Storage Unit",
+    "Unit Price": 315.80000000000000000000,
+    "Unit Cost": 188.70000000000000000000,
+    "Vendor No_": "20000"
+  },
+  {
+    "No_": "1925-W",
+    "Description": "Conference Bundle 1-6",
+    "Unit Price": 283.60000000000000000000,
+    "Unit Cost": 0.00000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "1928-S",
+    "Description": "AMSTERDAM Lamp",
+    "Unit Price": 82.50000000000000000000,
+    "Unit Cost": 64.40000000000000000000,
+    "Vendor No_": "10000"
+  },
+  {
+    "No_": "1928-W",
+    "Description": "ST.MORITZ Storage Unit/Drawers",
+    "Unit Price": 792.00000000000000000000,
+    "Unit Cost": 443.90000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "1929-W",
+    "Description": "Conference Bundle 1-8",
+    "Unit Price": 351.20000000000000000000,
+    "Unit Cost": 0.00000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "1936-S",
+    "Description": "BERLIN Guest Chair, yellow",
+    "Unit Price": 289.60000000000000000000,
+    "Unit Cost": 225.80000000000000000000,
+    "Vendor No_": "20000"
+  },
+  {
+    "No_": "1952-W",
+    "Description": "OSLO Storage Unit/Shelf",
+    "Unit Price": 366.90000000000000000000,
+    "Unit Cost": 216.30000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "1953-W",
+    "Description": "Guest Section 1",
+    "Unit Price": 189.00000000000000000000,
+    "Unit Cost": 0.00000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "1960-S",
+    "Description": "ROME Guest Chair, green",
+    "Unit Price": 289.60000000000000000000,
+    "Unit Cost": 225.80000000000000000000,
+    "Vendor No_": "20000"
+  },
+  {
+    "No_": "1964-S",
+    "Description": "TOKYO Guest Chair, blue",
+    "Unit Price": 289.60000000000000000000,
+    "Unit Cost": 225.80000000000000000000,
+    "Vendor No_": "20000"
+  },
+  {
+    "No_": "1964-W",
+    "Description": "INNSBRUCK Storage Unit/G.Door",
+    "Unit Price": 676.00000000000000000000,
+    "Unit Cost": 396.30000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "1965-W",
+    "Description": "Conference Bundle 2-8",
+    "Unit Price": 351.20000000000000000000,
+    "Unit Cost": 0.00000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "1968-S",
+    "Description": "MEXICO Swivel Chair, black",
+    "Unit Price": 285.50000000000000000000,
+    "Unit Cost": 222.50000000000000000000,
+    "Vendor No_": "30000"
+  },
+  {
+    "No_": "1968-W",
+    "Description": "GRENOBLE Whiteboard, red",
+    "Unit Price": 2256.80000000000000000000,
+    "Unit Cost": 1640.50000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "1969-W",
+    "Description": "Conference Package 1",
+    "Unit Price": 513.50000000000000000000,
+    "Unit Cost": 0.00000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "1972-S",
+    "Description": "MUNICH Swivel Chair, yellow",
+    "Unit Price": 285.50000000000000000000,
+    "Unit Cost": 222.50000000000000000000,
+    "Vendor No_": "30000"
+  },
+  {
+    "No_": "1972-W",
+    "Description": "SAPPORO Whiteboard, black",
+    "Unit Price": 2256.80000000000000000000,
+    "Unit Cost": 1640.50000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "1976-W",
+    "Description": "INNSBRUCK Storage Unit/W.Door",
+    "Unit Price": 593.00000000000000000000,
+    "Unit Cost": 348.30000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "1980-S",
+    "Description": "MOSCOW Swivel Chair, red",
+    "Unit Price": 285.50000000000000000000,
+    "Unit Cost": 222.50000000000000000000,
+    "Vendor No_": "30000"
+  },
+  {
+    "No_": "1984-W",
+    "Description": "SARAJEVO Whiteboard, blue",
+    "Unit Price": 2256.80000000000000000000,
+    "Unit Cost": 1640.50000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "1988-S",
+    "Description": "SEOUL Guest Chair, red",
+    "Unit Price": 289.60000000000000000000,
+    "Unit Cost": 225.80000000000000000000,
+    "Vendor No_": "20000"
+  },
+  {
+    "No_": "1988-W",
+    "Description": "CALGARY Whiteboard, yellow",
+    "Unit Price": 2256.80000000000000000000,
+    "Unit Cost": 1640.50000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "1992-W",
+    "Description": "ALBERTVILLE Whiteboard, green",
+    "Unit Price": 2256.80000000000000000000,
+    "Unit Cost": 1640.50000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "1996-S",
+    "Description": "ATLANTA Whiteboard, base",
+    "Unit Price": 2099.10000000000000000000,
+    "Unit Cost": 1637.30000000000000000000,
+    "Vendor No_": "30000"
+  },
+  {
+    "No_": "2000-S",
+    "Description": "SYDNEY Swivel Chair, green",
+    "Unit Price": 285.50000000000000000000,
+    "Unit Cost": 222.50000000000000000000,
+    "Vendor No_": "30000"
+  },
+  {
+    "No_": "70000",
+    "Description": "Side Panel",
+    "Unit Price": 71.10000000000000000000,
+    "Unit Cost": 36.20000000000000000000,
+    "Vendor No_": "10000"
+  },
+  {
+    "No_": "70001",
+    "Description": "Base",
+    "Unit Price": 93.30000000000000000000,
+    "Unit Cost": 47.60000000000000000000,
+    "Vendor No_": "10000"
+  },
+  {
+    "No_": "70002",
+    "Description": "Top Panel ",
+    "Unit Price": 66.50000000000000000000,
+    "Unit Cost": 33.80000000000000000000,
+    "Vendor No_": "10000"
+  },
+  {
+    "No_": "70003",
+    "Description": "Rear Panel",
+    "Unit Price": 68.40000000000000000000,
+    "Unit Cost": 34.90000000000000000000,
+    "Vendor No_": "10000"
+  },
+  {
+    "No_": "70010",
+    "Description": "Wooden Door",
+    "Unit Price": 120.60000000000000000000,
+    "Unit Cost": 61.40000000000000000000,
+    "Vendor No_": "10000"
+  },
+  {
+    "No_": "70011",
+    "Description": "Glass Door",
+    "Unit Price": 167.40000000000000000000,
+    "Unit Cost": 85.40000000000000000000,
+    "Vendor No_": "10000"
+  },
+  {
+    "No_": "70040",
+    "Description": "Drawer",
+    "Unit Price": 250.40000000000000000000,
+    "Unit Cost": 127.60000000000000000000,
+    "Vendor No_": "10000"
+  },
+  {
+    "No_": "70041",
+    "Description": "Shelf",
+    "Unit Price": 54.10000000000000000000,
+    "Unit Cost": 27.60000000000000000000,
+    "Vendor No_": "10000"
+  },
+  {
+    "No_": "70060",
+    "Description": "Mounting",
+    "Unit Price": 30.30000000000000000000,
+    "Unit Cost": 15.40000000000000000000,
+    "Vendor No_": "32456123"
+  },
+  {
+    "No_": "70100",
+    "Description": "Paint, black",
+    "Unit Price": 6.20000000000000000000,
+    "Unit Cost": 3.20000000000000000000,
+    "Vendor No_": "20000"
+  },
+  {
+    "No_": "70101",
+    "Description": "Paint, yellow",
+    "Unit Price": 6.20000000000000000000,
+    "Unit Cost": 3.20000000000000000000,
+    "Vendor No_": "20000"
+  },
+  {
+    "No_": "70102",
+    "Description": "Paint, blue",
+    "Unit Price": 6.20000000000000000000,
+    "Unit Cost": 3.20000000000000000000,
+    "Vendor No_": "20000"
+  },
+  {
+    "No_": "70103",
+    "Description": "Paint, red",
+    "Unit Price": 6.20000000000000000000,
+    "Unit Cost": 3.20000000000000000000,
+    "Vendor No_": "20000"
+  },
+  {
+    "No_": "70104",
+    "Description": "Paint, green",
+    "Unit Price": 6.20000000000000000000,
+    "Unit Cost": 3.20000000000000000000,
+    "Vendor No_": "20000"
+  },
+  {
+    "No_": "70200",
+    "Description": "Hinge",
+    "Unit Price": 3.00000000000000000000,
+    "Unit Cost": 1.60000000000000000000,
+    "Vendor No_": "10000"
+  },
+  {
+    "No_": "70201",
+    "Description": "Doorknob",
+    "Unit Price": 2.70000000000000000000,
+    "Unit Cost": 1.40000000000000000000,
+    "Vendor No_": "10000"
+  },
+  {
+    "No_": "766BC-A",
+    "Description": "CONTOSO Conference System",
+    "Unit Price": 12533.20000000000000000000,
+    "Unit Cost": 8146.60000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "766BC-B",
+    "Description": "CONTOSO Office System",
+    "Unit Price": 4136.92200000000000000000,
+    "Unit Cost": 2883.00000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "766BC-C",
+    "Description": "CONTOSO Storage System",
+    "Unit Price": 2184.90000000000000000000,
+    "Unit Cost": 1420.20000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "80001",
+    "Description": "Computer III 533 MHz",
+    "Unit Price": 29.20000000000000000000,
+    "Unit Cost": 13.50000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80002",
+    "Description": "Computer III 600 MHz",
+    "Unit Price": 34.60000000000000000000,
+    "Unit Cost": 16.20000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80003",
+    "Description": "Computer III 733 MHz",
+    "Unit Price": 37.30000000000000000000,
+    "Unit Cost": 18.90000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80004",
+    "Description": "Computer III 800 MHz",
+    "Unit Price": 40.00000000000000000000,
+    "Unit Cost": 21.60000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80005",
+    "Description": "Computer III 866 MHz",
+    "Unit Price": 48.10000000000000000000,
+    "Unit Cost": 24.30000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80006",
+    "Description": "Team Work Computer 533 MHz",
+    "Unit Price": 405.30000000000000000000,
+    "Unit Cost": 216.30000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80007",
+    "Description": "Enterprise Computer 667 MHz",
+    "Unit Price": 573.00000000000000000000,
+    "Unit Cost": 297.40000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80010",
+    "Description": "64 MB PC800 ECC",
+    "Unit Price": 23.00000000000000000000,
+    "Unit Cost": 13.50000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80011",
+    "Description": "128 MB PC800 ECC",
+    "Unit Price": 50.00000000000000000000,
+    "Unit Cost": 24.30000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80012",
+    "Description": "256 MB PC800 ECC",
+    "Unit Price": 66.20000000000000000000,
+    "Unit Cost": 32.40000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80013",
+    "Description": "384 MB PC800 ECC",
+    "Unit Price": 52.70000000000000000000,
+    "Unit Cost": 40.60000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80014",
+    "Description": "512 MB PC800 ECC",
+    "Unit Price": 85.20000000000000000000,
+    "Unit Cost": 43.30000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80021",
+    "Description": "10.2 GB ATA-66 IDE",
+    "Unit Price": 31.10000000000000000000,
+    "Unit Cost": 16.20000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80022",
+    "Description": "20.4 GB ATA-66 IDE",
+    "Unit Price": 48.70000000000000000000,
+    "Unit Cost": 24.30000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80023",
+    "Description": "27GB ATA-66 IDE",
+    "Unit Price": 58.10000000000000000000,
+    "Unit Cost": 29.70000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80024",
+    "Description": "40GB ATA-66 IDE",
+    "Unit Price": 82.50000000000000000000,
+    "Unit Cost": 41.90000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80025",
+    "Description": "9GB Ultra 160/M SCSI",
+    "Unit Price": 41.90000000000000000000,
+    "Unit Cost": 21.60000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80026",
+    "Description": "18GB Ultra 160/M SCSI",
+    "Unit Price": 47.30000000000000000000,
+    "Unit Cost": 24.30000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80027",
+    "Description": "36GB Ultra 160/M SCSI",
+    "Unit Price": 80.80000000000000000000,
+    "Unit Cost": 40.60000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80100",
+    "Description": "Printing Paper",
+    "Unit Price": 13.20000000000000000000,
+    "Unit Cost": 7.00000000000000000000,
+    "Vendor No_": "46558855"
+  },
+  {
+    "No_": "80101",
+    "Description": "15\" 1501 FP Flat Panel",
+    "Unit Price": 58.10000000000000000000,
+    "Unit Cost": 27.00000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80102",
+    "Description": "17\" M780 Monitor",
+    "Unit Price": 79.80000000000000000000,
+    "Unit Cost": 40.60000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80102-T",
+    "Description": "17\" M780 Monitor",
+    "Unit Price": 26.00000000000000000000,
+    "Unit Cost": 14.60000000000000000000,
+    "Vendor No_": "10000"
+  },
+  {
+    "No_": "80103",
+    "Description": "19\" M009 Monitor",
+    "Unit Price": 96.30000000000000000000,
+    "Unit Cost": 48.70000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80103-T",
+    "Description": "19\" M009 Monitor",
+    "Unit Price": 53.00000000000000000000,
+    "Unit Cost": 27.90000000000000000000,
+    "Vendor No_": "10000"
+  },
+  {
+    "No_": "80104",
+    "Description": "21\" UltraScan P1110",
+    "Unit Price": 111.40000000000000000000,
+    "Unit Cost": 54.10000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80105",
+    "Description": "24\" Ultrascan",
+    "Unit Price": 126.80000000000000000000,
+    "Unit Cost": 62.20000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80201",
+    "Description": "GRAPHIC PROGRAM",
+    "Unit Price": 9.70000000000000000000,
+    "Unit Cost": 5.40000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80202",
+    "Description": "Chip 32 MB",
+    "Unit Price": 12.20000000000000000000,
+    "Unit Cost": 6.50000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80203",
+    "Description": "Graphic Card 9400",
+    "Unit Price": 15.70000000000000000000,
+    "Unit Cost": 8.10000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80204",
+    "Description": "Ultra 160/M SCSI Controller",
+    "Unit Price": 15.70000000000000000000,
+    "Unit Cost": 8.10000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80205",
+    "Description": "10MBit Ethernet",
+    "Unit Price": 9.20000000000000000000,
+    "Unit Cost": 5.40000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80206",
+    "Description": "Webcam",
+    "Unit Price": 3.20000000000000000000,
+    "Unit Cost": 1.60000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80207",
+    "Description": "Basic Mouse",
+    "Unit Price": 6.80000000000000000000,
+    "Unit Cost": 2.70000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80208",
+    "Description": "Advanced Mouse",
+    "Unit Price": 4.90000000000000000000,
+    "Unit Cost": 2.40000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80208-T",
+    "Description": "Microsoft Intellimouse",
+    "Unit Price": 6.80000000000000000000,
+    "Unit Cost": 4.60000000000000000000,
+    "Vendor No_": "10000"
+  },
+  {
+    "No_": "80209",
+    "Description": "20/48x IDE CD ROM",
+    "Unit Price": 40.60000000000000000000,
+    "Unit Cost": 27.00000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80210",
+    "Description": "8x/4x/32x IDE CD Read-Write",
+    "Unit Price": 75.70000000000000000000,
+    "Unit Cost": 54.10000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80211",
+    "Description": "Quietkey Keyboard",
+    "Unit Price": 13.50000000000000000000,
+    "Unit Cost": 6.80000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80212",
+    "Description": "Performance Keyboard",
+    "Unit Price": 23.00000000000000000000,
+    "Unit Cost": 10.80000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80213",
+    "Description": "Drive250",
+    "Unit Price": 31.10000000000000000000,
+    "Unit Cost": 10.80000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80214",
+    "Description": "250MB Disks/2pack",
+    "Unit Price": 5.90000000000000000000,
+    "Unit Cost": 2.70000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80215",
+    "Description": "250MB Disks/4pack",
+    "Unit Price": 10.50000000000000000000,
+    "Unit Cost": 5.40000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80216",
+    "Description": "Ethernet Cable",
+    "Unit Price": 0.90000000000000000000,
+    "Unit Cost": 0.30000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80216-T",
+    "Description": "Ethernet Cable",
+    "Unit Price": 1.90000000000000000000,
+    "Unit Cost": 1.10000000000000000000,
+    "Vendor No_": "10000"
+  },
+  {
+    "No_": "80217",
+    "Description": "Power Supply Cable",
+    "Unit Price": 1.10000000000000000000,
+    "Unit Cost": 0.60000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80218",
+    "Description": "Hard Disk Drive",
+    "Unit Price": 10.50000000000000000000,
+    "Unit Cost": 5.40000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80218-T",
+    "Description": "Hard disk Drive",
+    "Unit Price": 53.00000000000000000000,
+    "Unit Cost": 43.30000000000000000000,
+    "Vendor No_": "10000"
+  },
+  {
+    "No_": "80219",
+    "Description": "Screw on Hard Drive Mounting",
+    "Unit Price": 0.00000000000000000000,
+    "Unit Cost": 0.00000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "80220",
+    "Description": "Screw on Mount CD/Tape Drive",
+    "Unit Price": 0.00000000000000000000,
+    "Unit Cost": 0.00000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "8904-W",
+    "Description": "Computer - Basic Package",
+    "Unit Price": 151.10000000000000000000,
+    "Unit Cost": 0.00000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "8908-W",
+    "Description": "Computer - Highline Package",
+    "Unit Price": 264.30000000000000000000,
+    "Unit Cost": 0.00000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "8912-W",
+    "Description": "Computer - Trendy Package",
+    "Unit Price": 343.50000000000000000000,
+    "Unit Cost": 0.00000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "8916-W",
+    "Description": "Computer - TURBO Package",
+    "Unit Price": 433.20000000000000000000,
+    "Unit Cost": 0.00000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "8920-W",
+    "Description": "Server - Teamwear Package",
+    "Unit Price": 595.70000000000000000000,
+    "Unit Cost": 0.00000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "8924-W",
+    "Description": "Server - Enterprise Package",
+    "Unit Price": 801.60000000000000000000,
+    "Unit Cost": 0.00000000000000000000,
+    "Vendor No_": "50000"
+  },
+  {
+    "No_": "C-100",
+    "Description": "Cabling for LS-100",
+    "Unit Price": 21.00000000000000000000,
+    "Unit Cost": 15.00000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "FF-100",
+    "Description": "Frequency filter for LS-100",
+    "Unit Price": 21.00000000000000000000,
+    "Unit Cost": 15.00000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "HS-100",
+    "Description": "Housing LS-100,Oakwood 120 lts",
+    "Unit Price": 21.00000000000000000000,
+    "Unit Cost": 15.00000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "LS-100",
+    "Description": "Loudspeaker 100W OakwoodDeluxe",
+    "Unit Price": 21.00000000000000000000,
+    "Unit Cost": 15.00000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "LS-10PC",
+    "Description": "Loudspeakers, White for PC",
+    "Unit Price": 59.00000000000000000000,
+    "Unit Cost": 25.00000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "LS-120",
+    "Description": "Loudspeaker, Black, 120W",
+    "Unit Price": 88.00000000000000000000,
+    "Unit Cost": 45.00000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "LS-150",
+    "Description": "Loudspeaker, Cherry, 150W",
+    "Unit Price": 129.00000000000000000000,
+    "Unit Cost": 72.00000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "LS-2",
+    "Description": "Cables for Loudspeakers",
+    "Unit Price": 21.00000000000000000000,
+    "Unit Cost": 15.00000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "LS-75",
+    "Description": "Loudspeaker, Cherry, 75W",
+    "Unit Price": 79.00000000000000000000,
+    "Unit Cost": 36.00000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "LS-81",
+    "Description": "Loudspeaker, Walnut, 80W",
+    "Unit Price": 79.00000000000000000000,
+    "Unit Cost": 36.00000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "LS-MAN-10",
+    "Description": "Manual for Loudspeakers",
+    "Unit Price": 0.00000000000000000000,
+    "Unit Cost": 12.00000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "LS-S15",
+    "Description": "Stand for Loudspeakers LS-150",
+    "Unit Price": 79.00000000000000000000,
+    "Unit Cost": 45.00000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "LSU-15",
+    "Description": "Base speaker unit 15\" 100W",
+    "Unit Price": 21.00000000000000000000,
+    "Unit Cost": 15.00000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "LSU-4",
+    "Description": "Tweeter speaker unit 4\" 100W",
+    "Unit Price": 21.00000000000000000000,
+    "Unit Cost": 15.00000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "LSU-8",
+    "Description": "Middletone speaker unit 8\"100W",
+    "Unit Price": 21.00000000000000000000,
+    "Unit Cost": 15.00000000000000000000,
+    "Vendor No_": ""
+  },
+  {
+    "No_": "SPK-100",
+    "Description": "Spike for LS-100",
+    "Unit Price": 21.00000000000000000000,
+    "Unit Cost": 15.00000000000000000000,
+    "Vendor No_": ""
+  }
+]
