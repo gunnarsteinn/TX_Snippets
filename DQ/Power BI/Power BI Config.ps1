@@ -1,9 +1,11 @@
 # Power BI API Configuration - Default empty values
+# Replace with Global Parameters in TimeXtender DQ
 $appId = ""
 $appSecret = ""
 $tenantId = ""
 
 # Try to import local configuration if it exists
+# Remove this part when using in TimeXtender DQ
 $localConfigPath = Join-Path $PSScriptRoot "Power BI Config.local.ps1"
 if (Test-Path $localConfigPath) {
     . $localConfigPath
