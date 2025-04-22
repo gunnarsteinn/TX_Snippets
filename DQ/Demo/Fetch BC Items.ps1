@@ -1,4 +1,5 @@
 # Description: This script fetches JSON data from a URL and converts it to PowerShell objects.
+# Uncomment the file you want to fetch and make sure the other one is commented out.
 $file = 'BCItems.json'
 #$file = 'BCVendors.json'
 
