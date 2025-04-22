@@ -6,7 +6,7 @@ $tenantId = ""
 
 # Try to import local configuration if it exists
 # Remove this part when using in TimeXtender DQ
-$localConfigPath = Join-Path $PSScriptRoot "..\\Azure App Registration.local.ps1"
+$localConfigPath = Join-Path $PSScriptRoot "..\\..\\Azure App Registration.local.ps1"
 if (Test-Path $localConfigPath) {
     . $localConfigPath
 }
