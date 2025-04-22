@@ -1,0 +1,614 @@
+[
+  {
+    "No_": "01254796",
+    "Name": "Progressive Home Furnishings",
+    "Address": "222 Reagan Drive",
+    "City": "Columbia",
+    "Contact": "Mr. Michael Sean Ray",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "USD"
+  },
+  {
+    "No_": "01587796",
+    "Name": "Custom Metals Incorporated",
+    "Address": "640 Nixon Blvd.",
+    "City": "Birmingham",
+    "Contact": "Mr. Peter Houston",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "USD"
+  },
+  {
+    "No_": "01863656",
+    "Name": "American Wood Exports",
+    "Address": "723 North Hampton Drive",
+    "City": "New York",
+    "Contact": "Mr. Jeff D. Henshaw",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "USD"
+  },
+  {
+    "No_": "01905283",
+    "Name": "Mundersand Corporation",
+    "Address": "21 W. Arthur St.",
+    "City": "Thunder Bay",
+    "Contact": "Mr. Mike Hines",
+    "Territory Code": "",
+    "Currency Code": ""
+  },
+  {
+    "No_": "01905382",
+    "Name": "NewCaSup",
+    "Address": "12002 Simcoe St.",
+    "City": "Toronto",
+    "Contact": "Mr. Toby Nixon",
+    "Territory Code": "",
+    "Currency Code": ""
+  },
+  {
+    "No_": "01905777",
+    "Name": "OakvilleWorld",
+    "Address": "1 Sherwood Heights Dr.",
+    "City": "Oakville",
+    "Contact": "Mr. Sean P. Alexander",
+    "Territory Code": "",
+    "Currency Code": ""
+  },
+  {
+    "No_": "10000",
+    "Name": "London Postmaster",
+    "Address": "222 Bay Street, Suite 1201",
+    "City": "Toronto",
+    "Contact": "Mrs. Carol Philips",
+    "Territory Code": "LND",
+    "Currency Code": ""
+  },
+  {
+    "No_": "20000",
+    "Name": "AR Day Property Management",
+    "Address": "10155 - 102 Street, Suite 2100",
+    "City": "Edmonton",
+    "Contact": "Mr. Frank Lee",
+    "Territory Code": "S",
+    "Currency Code": ""
+  },
+  {
+    "No_": "20300190",
+    "Name": "Malay-Dan Export Unit Sdn Bhd",
+    "Address": "12, Jalan Ampang",
+    "City": "AMPANG, Kuala Lumpur",
+    "Contact": "Mr. Fabrice Perez",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "MYR"
+  },
+  {
+    "No_": "20319939",
+    "Name": "KDHSL99 Sdn Bhd",
+    "Address": "220, Jalan Limbongan",
+    "City": "PELABUHAN KLANG, Selangor",
+    "Contact": "Mr. Toh Chin Theng",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "MYR"
+  },
+  {
+    "No_": "20323323",
+    "Name": "Tengah Butong Sdn Bhd",
+    "Address": "4KM Jalan Tuaran",
+    "City": "KOTA KINABALU, Sabah",
+    "Contact": "Mrs. Anisah Yoosoof",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "MYR"
+  },
+  {
+    "No_": "21201992",
+    "Name": "Texpro Maroc",
+    "Address": "1, Rue la rennaissance",
+    "City": "CASABLANCA",
+    "Contact": "M. Charaf HAMZAOUI",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "MAD"
+  },
+  {
+    "No_": "21218838",
+    "Name": "Top Bureau",
+    "Address": "26, Rue Ahmed Faris",
+    "City": "KASBAH TANGER",
+    "Contact": "M. Fadi FAKHOURI",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "MAD"
+  },
+  {
+    "No_": "21248839",
+    "Name": "Comacycle",
+    "Address": "38, Rue Ahmed Arabi",
+    "City": "MOHAMMEDIA",
+    "Contact": "",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "MAD"
+  },
+  {
+    "No_": "27299299",
+    "Name": "Big 5 Video",
+    "Address": "32 Railway Street",
+    "City": "Richards Bay",
+    "Contact": "Mr. Kevin Kennedy",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "ZAR"
+  },
+  {
+    "No_": "27833998",
+    "Name": "Jewel Gold Mine",
+    "Address": "24 Kempston Rd.",
+    "City": "Johannesburg",
+    "Contact": "Mr. Craig Dewer",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "ZAR"
+  },
+  {
+    "No_": "27889998",
+    "Name": "Mountain Fisheries",
+    "Address": "12 Curcuit Road",
+    "City": "Cape Town",
+    "Contact": "Mrs. Corinna Bolender",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "ZAR"
+  },
+  {
+    "No_": "30000",
+    "Name": "CoolWood Technologies",
+    "Address": "1111 W Georgia St., Suite 1100",
+    "City": "Vancouver",
+    "Contact": "Mr. Richard Bready",
+    "Territory Code": "S",
+    "Currency Code": ""
+  },
+  {
+    "No_": "31147896",
+    "Name": "Houtindustrie Bruynsma",
+    "Address": "Havenweg 92",
+    "City": "Zaandam",
+    "Contact": "Lieve Casteels",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "EUR"
+  },
+  {
+    "No_": "31568974",
+    "Name": "Koekamp Leerindustrie",
+    "Address": "Looiersdreef 19-27",
+    "City": "Waalwijk",
+    "Contact": "Anita Langers",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "EUR"
+  },
+  {
+    "No_": "31580305",
+    "Name": "Beekhuysen BV",
+    "Address": "Mergelland 4",
+    "City": "Apeldoorn",
+    "Contact": "Alex Roland",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "EUR"
+  },
+  {
+    "No_": "32456123",
+    "Name": "Groene Kater BVBA",
+    "Address": "Stationstraat 12",
+    "City": "Humbeek",
+    "Contact": "Roger Van Houten",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "EUR"
+  },
+  {
+    "No_": "32554455",
+    "Name": "PURE-LOOK",
+    "Address": "Parklaan 3",
+    "City": "Mechelen",
+    "Contact": "Rob Caron",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "EUR"
+  },
+  {
+    "No_": "32665544",
+    "Name": "Overschrijd de Grens SA",
+    "Address": "Boomgaardstraat 55",
+    "City": "Kortrijk",
+    "Contact": "Tom Vande Velde",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "EUR"
+  },
+  {
+    "No_": "33012999",
+    "Name": "Club Euroamis",
+    "Address": "16 Rue de Berri",
+    "City": "LA CHAPELLE BASSE MER",
+    "Contact": "M. Francois GERARD",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "EUR"
+  },
+  {
+    "No_": "33299199",
+    "Name": "Belle et Belle",
+    "Address": "34 Rue du Dome",
+    "City": "CASSEL",
+    "Contact": "Mme. Nicole CARON",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "EUR"
+  },
+  {
+    "No_": "33399927",
+    "Name": "Aranteaux Aliments",
+    "Address": "3 Rue Grande",
+    "City": "LA LONDE LES MAURES",
+    "Contact": "M. Francois AJENSTAT",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "EUR"
+  },
+  {
+    "No_": "34110257",
+    "Name": "Importaciones S.A.",
+    "Address": "Av. Palmeras 5",
+    "City": "Alicante",
+    "Contact": "Sr. Tomas Navarro",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "EUR"
+  },
+  {
+    "No_": "34151086",
+    "Name": "Subacqua",
+    "Address": "c/ Neptuno 18",
+    "City": "Salamanca",
+    "Contact": "Srta. Pilar Pinilla Gallego",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "EUR"
+  },
+  {
+    "No_": "34280789",
+    "Name": "Transporte Roas",
+    "Address": "Pol. Ind. 4",
+    "City": "Palma Mallorca",
+    "Contact": "Sr. Fabricio Noriega",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "EUR"
+  },
+  {
+    "No_": "35225588",
+    "Name": "Husplast HF",
+    "Address": "Dalvegi 24",
+    "City": "Reykjavik",
+    "Contact": "Vilhjalmur Arnason",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "ISK"
+  },
+  {
+    "No_": "35336699",
+    "Name": "Hurdir HF",
+    "Address": "Skeifunni 13",
+    "City": "Reykjavik",
+    "Contact": "Anna Lisa Sigmundsdottir",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "ISK"
+  },
+  {
+    "No_": "35741852",
+    "Name": "Huslagnir",
+    "Address": "Rangarseli 20",
+    "City": "Reykjavik",
+    "Contact": "Gudmundur Axel Hansen",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "ISK"
+  },
+  {
+    "No_": "38458653",
+    "Name": "IVERKA POHISTVO d.o.o.",
+    "Address": "Industrijska c.15",
+    "City": "Kranj",
+    "Contact": "g. Lojze Dolenc",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "EUR"
+  },
+  {
+    "No_": "38521479",
+    "Name": "Topol Slovenija d.o.o.",
+    "Address": "Ferkova ulica 4",
+    "City": "Kranj",
+    "Contact": "ga. Tina Gorenc",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "EUR"
+  },
+  {
+    "No_": "38654478",
+    "Name": "POIIORLES d.d.",
+    "Address": "Cankarjeva 17",
+    "City": "Koper",
+    "Contact": "ga. Borka Durovic",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "EUR"
+  },
+  {
+    "No_": "40000",
+    "Name": "Lewis Home Furniture",
+    "Address": "725 Granville St., Suite 700",
+    "City": "Vancouver",
+    "Contact": "Mrs. Julia Collins",
+    "Territory Code": "NE",
+    "Currency Code": ""
+  },
+  {
+    "No_": "41124089",
+    "Name": "Kradolf Zimmerdecke AG",
+    "Address": "Erlenstrasse 5",
+    "City": "Immensee",
+    "Contact": "Herrn Dick Dievendorff",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "CHF"
+  },
+  {
+    "No_": "41483124",
+    "Name": "Matter Transporte",
+    "Address": "Industrie",
+    "City": "Pratteln",
+    "Contact": "Herrn Michael Pfeiffer",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "CHF"
+  },
+  {
+    "No_": "41568934",
+    "Name": "Technische Betriebe Rotkreuz",
+    "Address": "Seedamm 18",
+    "City": "Rotkreuz",
+    "Contact": "Herrn Michael Ruggiero",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "CHF"
+  },
+  {
+    "No_": "42125678",
+    "Name": "UP Ostrov s.p.",
+    "Address": "Mayerova 12",
+    "City": "Olomouch",
+    "Contact": "Roman Miklus",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "CZK"
+  },
+  {
+    "No_": "42784512",
+    "Name": "TON s.r.o.",
+    "Address": "Krausova 125",
+    "City": "Kyjov",
+    "Contact": "Zuzana Janska",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "CZK"
+  },
+  {
+    "No_": "42895623",
+    "Name": "Mach & spol. v.o.s.",
+    "Address": "T.G. Masaryka 15",
+    "City": "Blansko",
+    "Contact": "Milan Cvrkal",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "CZK"
+  },
+  {
+    "No_": "43258545",
+    "Name": "Sägewerk Mittersill",
+    "Address": "Ortstraße 12",
+    "City": "Mittersill",
+    "Contact": "Hr. Christian Kemp",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "EUR"
+  },
+  {
+    "No_": "43589632",
+    "Name": "Paul Brettschneider KG",
+    "Address": "Am Bahndamm 68",
+    "City": "Murau",
+    "Contact": "Hr. Michael L. Rothkugel",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "EUR"
+  },
+  {
+    "No_": "43698547",
+    "Name": "Beschläge Schacherhuber",
+    "Address": "Fabrikstraße 24",
+    "City": "Wien",
+    "Contact": "Hr. Frank Pellow",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "EUR"
+  },
+  {
+    "No_": "44127904",
+    "Name": "WoodMart Supply Co.",
+    "Address": "12 Industrial Heights",
+    "City": "Stratford",
+    "Contact": "Mr. Joseph Matthews",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "GBP"
+  },
+  {
+    "No_": "44127914",
+    "Name": "Mortimor Car Company",
+    "Address": "43 Industrial Heights",
+    "City": "Stratford",
+    "Contact": "Mr. Andrew R. Hill",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "GBP"
+  },
+  {
+    "No_": "44729910",
+    "Name": "Boybridge Tool Mart",
+    "Address": "8 Grovenors Park",
+    "City": "London",
+    "Contact": "Mr. David Campbell",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "GBP"
+  },
+  {
+    "No_": "44756404",
+    "Name": "Furniture Industries",
+    "Address": "23 Charington Cresent",
+    "City": "Edinburgh",
+    "Contact": "Mr. Stephen A. Mew",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "GBP"
+  },
+  {
+    "No_": "45774477",
+    "Name": "Lyselette Lamper A/S",
+    "Address": "Nyborgvej 566",
+    "City": "Odense C",
+    "Contact": "Hr. Allan Vinther-Wahl",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "DKK"
+  },
+  {
+    "No_": "45858585",
+    "Name": "Busterby Stole og Borde A/S",
+    "Address": "Havnevej 6",
+    "City": "Koge",
+    "Contact": "Fr. Karen Friske",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "DKK"
+  },
+  {
+    "No_": "45868686",
+    "Name": "Ahornby Hvidevare A/S",
+    "Address": "Ndr. Frihavnsgade 45",
+    "City": "Copenhagen",
+    "Contact": "Hr. Allan Benny Guinot",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "DKK"
+  },
+  {
+    "No_": "46558855",
+    "Name": "Kinnareds Träindustri AB",
+    "Address": "Stordal Torslunda",
+    "City": "Kinnared",
+    "Contact": "",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "SEK"
+  },
+  {
+    "No_": "46635241",
+    "Name": "Viksjö Snickerifabrik AB",
+    "Address": "Sjöhagsgatan 7",
+    "City": "Sundsvall",
+    "Contact": "",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "SEK"
+  },
+  {
+    "No_": "46895623",
+    "Name": "Svensk Möbeltextil AB",
+    "Address": "Nyängsvägen 14",
+    "City": "Goteborg",
+    "Contact": "",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "SEK"
+  },
+  {
+    "No_": "47521478",
+    "Name": "Møbelhuset AS",
+    "Address": "Vivendelveien 17",
+    "City": "Ski",
+    "Contact": "Bjarke Rust Christensen",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "NOK"
+  },
+  {
+    "No_": "47562214",
+    "Name": "Stilmøbler as",
+    "Address": "Thv. Meyersgt. 34",
+    "City": "Oslo",
+    "Contact": "Sisser Wichmann",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "NOK"
+  },
+  {
+    "No_": "47586622",
+    "Name": "Monabekken Barnesenger A/S",
+    "Address": "Østensjøveien 27",
+    "City": "Oslo",
+    "Contact": "Christina Philp",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "NOK"
+  },
+  {
+    "No_": "49454647",
+    "Name": "VAG - Jürgensen",
+    "Address": "Süderweg 15",
+    "City": "Hamburg",
+    "Contact": "",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "EUR"
+  },
+  {
+    "No_": "49494949",
+    "Name": "KKA Büromaschinen Gmbh",
+    "Address": "Immermannstraße 92",
+    "City": "Landsberg am Lech",
+    "Contact": "",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "EUR"
+  },
+  {
+    "No_": "49989898",
+    "Name": "JB-Spedition",
+    "Address": "Grünfahrtsweg 20",
+    "City": "Munchen",
+    "Contact": "",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "EUR"
+  },
+  {
+    "No_": "50000",
+    "Name": "Service Electronics Ltd.",
+    "Address": "2000 McGill Coll Av, Suite 450",
+    "City": "Montreal",
+    "Contact": "Mr. Paul Marquardt",
+    "Territory Code": "LND",
+    "Currency Code": ""
+  },
+  {
+    "No_": "60000",
+    "Name": "Grassblue Ltd.",
+    "Address": "8 One Way",
+    "City": "Toronto",
+    "Contact": "",
+    "Territory Code": "",
+    "Currency Code": ""
+  },
+  {
+    "No_": "61000",
+    "Name": "Electronics Ltd.",
+    "Address": "354 Oxford Street",
+    "City": "London",
+    "Contact": "",
+    "Territory Code": "",
+    "Currency Code": ""
+  },
+  {
+    "No_": "62000",
+    "Name": "WalkerHolland",
+    "Address": "116 Kensington Road",
+    "City": "London",
+    "Contact": "",
+    "Territory Code": "",
+    "Currency Code": ""
+  },
+  {
+    "No_": "IC1020",
+    "Name": "Cronus Cardoxy Sales",
+    "Address": "Ligeudvej 24",
+    "City": "Copenhagen",
+    "Contact": "",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "DKK"
+  },
+  {
+    "No_": "IC1030",
+    "Name": "Cronus Cardoxy Procurement",
+    "Address": "Geradeausweg 77",
+    "City": "Hamburg",
+    "Contact": "",
+    "Territory Code": "FOREIGN",
+    "Currency Code": "EUR"
+  }
+]
