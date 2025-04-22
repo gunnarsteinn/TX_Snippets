@@ -8,5 +8,8 @@ $results = Invoke-WebRequest -Uri $url -UseBasicParsing
 $items = $results.Content | ConvertFrom-Json
 
 
-$items #| Select-Object -Property No_,Description,"Unit Price","Unit Cost","Vendor No_"
+# Optional: select specific columns and filter
+#$items | Select-Object -Property No_,Description,"Unit Price","Unit Cost","Vendor No_" | Where-Object {$_."Unit Price" -gt 1}
 
+# Just display the whole list
+$items
