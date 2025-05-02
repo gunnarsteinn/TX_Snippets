@@ -1,0 +1,752 @@
+[
+  {
+    "ID": "CUST000001",
+    "Name": "Spotsmeyer's Furnishings, Inc.",
+    "Address": "South Sunset Drive 612",
+    "City": "Miami",
+    "Currency Code": "USD",
+    "Country": "US",
+    "Industry": "Retail",
+    "Email": "info@spotsmeyers.com"
+  },
+  {
+    "ID": "CUST000002",
+    "Name": "Progressive Home & Office, Ltd.",
+    "Address": "Roosevelt Boulevard 3000",
+    "City": "Chicago",
+    "Currency Code": "USD",
+    "Country": "US",
+    "Industry": "Retail",
+    "Email": "contact@progressivehome.com"
+  },
+  {
+    "ID": "CUST000003",
+    "Name": "New Concepts Furniture",
+    "Address": "705 West Peachtree Street",
+    "City": "Atlanta",
+    "Currency Code": "USD",
+    "Country": "US",
+    "Industry": "Retail",
+    "Email": "info@newconceptsfurniture.com"
+  },
+  {
+    "ID": "CUST000004",
+    "Name": "Candoxy Canada Inc.",
+    "Address": "18 Cumberland Street",
+    "City": "Thunder Bay",
+    "Currency Code": "CAD",
+    "Country": "CA",
+    "Industry": "Retail",
+    "Email": "info@candoxycanada.ca"
+  },
+  {
+    "ID": "CUST000005",
+    "Name": "Elkhorn Airport",
+    "Address": "105 Buffalo Dr.",
+    "City": "Elkhorn",
+    "Currency Code": "CAD",
+    "Country": "CA",
+    "Industry": "Services",
+    "Email": "contact@elkhornairport.ca"
+  },
+  {
+    "ID": "CUST000006",
+    "Name": "London Candoxy Storage Campus",
+    "Address": "120 Wellington Rd.",
+    "City": "London",
+    "Currency Code": "CAD",
+    "Country": "CA",
+    "Industry": "Services",
+    "Email": "info@londoncandoxy.ca"
+  },
+  {
+    "ID": "CUST000007",
+    "Name": "The Cannon Group PLC",
+    "Address": "360 Main Street, Suite 1150",
+    "City": "Winnipeg",
+    "Currency Code": "CAD",
+    "Country": "CA",
+    "Industry": "Services",
+    "Email": "contact@cannongroup.ca"
+  },
+  {
+    "ID": "CUST000008",
+    "Name": "Selangorian Ltd.",
+    "Address": "1950 Meadowvale Blvd.",
+    "City": "Missisauga",
+    "Currency Code": "CAD",
+    "Country": "CA",
+    "Industry": "Services",
+    "Email": "info@selangorian.ca"
+  },
+  {
+    "ID": "CUST000009",
+    "Name": "Metatorad Malaysia Sdn Bhd",
+    "Address": "No 16M Jalan SS22",
+    "City": "PETALING JAYA, Selangor",
+    "Currency Code": "MYR",
+    "Country": "MY",
+    "Industry": "Manufacturing",
+    "Email": "info@metatorad.my"
+  },
+  {
+    "ID": "CUST000010",
+    "Name": "Highlights Electronics Sdn Bhd",
+    "Address": "28 Ground Floor, 1 Jalan 3/26",
+    "City": "KUALA LUMPUR",
+    "Currency Code": "MYR",
+    "Country": "MY",
+    "Industry": "Manufacturing",
+    "Email": "contact@highlightselectronics.my"
+  },
+  {
+    "ID": "CUST000011",
+    "Name": "TraxTonic Sdn Bhd",
+    "Address": "Sama Jaya Free Industrial Zone",
+    "City": "KUCHING, Sarawak",
+    "Currency Code": "MYR",
+    "Country": "MY",
+    "Industry": "Manufacturing",
+    "Email": "info@traxtonic.my"
+  },
+  {
+    "ID": "CUST000012",
+    "Name": "Somadis",
+    "Address": "37, Rue El Wahda",
+    "City": "AGDAL-RABAT",
+    "Currency Code": "MAD",
+    "Country": "MA",
+    "Industry": "Retail",
+    "Email": "info@somadis.ma"
+  },
+  {
+    "ID": "CUST000013",
+    "Name": "Maronegoce",
+    "Address": "21, Boulevard de la Nation",
+    "City": "CASABLANCA",
+    "Currency Code": "MAD",
+    "Country": "MA",
+    "Industry": "Retail",
+    "Email": "contact@maronegoce.ma"
+  },
+  {
+    "ID": "CUST000014",
+    "Name": "ElectroMAROC",
+    "Address": "11, Avenue des FAR",
+    "City": "TEMARA",
+    "Currency Code": "MAD",
+    "Country": "MA",
+    "Industry": "Retail",
+    "Email": "info@electromaroc.ma"
+  },
+  {
+    "ID": "CUST000015",
+    "Name": "Zanlan Corp.",
+    "Address": "2 Beta Street",
+    "City": "Carletonville",
+    "Currency Code": "ZAR",
+    "Country": "ZA",
+    "Industry": "Retail",
+    "Email": "info@zanlan.co.za"
+  },
+  {
+    "ID": "CUST000016",
+    "Name": "Karoo Supermarkets",
+    "Address": "38 Voortrekker Street",
+    "City": "Bloemfontein",
+    "Currency Code": "ZAR",
+    "Country": "ZA",
+    "Industry": "Retail",
+    "Email": "contact@karoo.co.za"
+  },
+  {
+    "ID": "CUST000017",
+    "Name": "Durbandit Fruit Exporters",
+    "Address": "100 St. George's Mall",
+    "City": "Durban",
+    "Currency Code": "ZAR",
+    "Country": "ZA",
+    "Industry": "Retail",
+    "Email": "info@durbandit.co.za"
+  },
+  {
+    "ID": "CUST000018",
+    "Name": "John Haddock Insurance Co.",
+    "Address": "100 Queen Street, Suite 500",
+    "City": "Ottawa",
+    "Currency Code": "CAD",
+    "Country": "CA",
+    "Industry": "Services",
+    "Email": "contact@johnhaddock.ca"
+  },
+  {
+    "ID": "CUST000019",
+    "Name": "Woonboulevard Kuitenbrouwer",
+    "Address": "Industrieweg 11",
+    "City": "Zutphen",
+    "Currency Code": "EUR",
+    "Country": "NL",
+    "Industry": "Retail",
+    "Email": "info@woonboulevard.nl"
+  },
+  {
+    "ID": "CUST000020",
+    "Name": "Meersen Meubelen",
+    "Address": "Vijfpoortenweg 71",
+    "City": "Arnhem",
+    "Currency Code": "EUR",
+    "Country": "NL",
+    "Industry": "Retail",
+    "Email": "contact@meersen.nl"
+  },
+  {
+    "ID": "CUST000021",
+    "Name": "Candoxy Nederland BV",
+    "Address": "Westzijdewal 123",
+    "City": "Amsterdam",
+    "Currency Code": "EUR",
+    "Country": "NL",
+    "Industry": "Retail",
+    "Email": "info@candoxynederland.nl"
+  },
+  {
+    "ID": "CUST000022",
+    "Name": "Nieuwe Zandpoort NV",
+    "Address": "Nieuwstraat 28",
+    "City": "Herentals",
+    "Currency Code": "EUR",
+    "Country": "BE",
+    "Industry": "Retail",
+    "Email": "info@nieuwezandpoort.be"
+  },
+  {
+    "ID": "CUST000023",
+    "Name": "Antarcticopy",
+    "Address": "Katwilgweg 274",
+    "City": "Antwerpen",
+    "Currency Code": "EUR",
+    "Country": "BE",
+    "Industry": "Retail",
+    "Email": "contact@antarcticopy.be"
+  },
+  {
+    "ID": "CUST000024",
+    "Name": "Lovaina Contractors",
+    "Address": "Vuurberg 137",
+    "City": "Leuven",
+    "Currency Code": "EUR",
+    "Country": "BE",
+    "Industry": "Construction",
+    "Email": "info@lovainacontractors.be"
+  },
+  {
+    "ID": "CUST000025",
+    "Name": "Francematic",
+    "Address": "19 Boulevard Commanderie",
+    "City": "PLAISIR",
+    "Currency Code": "EUR",
+    "Country": "FR",
+    "Industry": "Retail",
+    "Email": "info@francematic.fr"
+  },
+  {
+    "ID": "CUST000026",
+    "Name": "Parmentier Boutique",
+    "Address": "34 Avenue Parmentier",
+    "City": "PARIS",
+    "Currency Code": "EUR",
+    "Country": "FR",
+    "Industry": "Retail",
+    "Email": "contact@parmentier.fr"
+  },
+  {
+    "ID": "CUST000027",
+    "Name": "Livre Importants",
+    "Address": "46 Rue Orteaux",
+    "City": "ESBLY",
+    "Currency Code": "EUR",
+    "Country": "FR",
+    "Industry": "Retail",
+    "Email": "info@livreimportants.fr"
+  },
+  {
+    "ID": "CUST000028",
+    "Name": "Libros S.A.",
+    "Address": "Plaza Redonda 12",
+    "City": "Barcelona",
+    "Currency Code": "EUR",
+    "Country": "ES",
+    "Industry": "Retail",
+    "Email": "info@libros.es"
+  },
+  {
+    "ID": "CUST000029",
+    "Name": "Corporación Beta",
+    "Address": "Avda. Europa 2",
+    "City": "Valencia",
+    "Currency Code": "EUR",
+    "Country": "ES",
+    "Industry": "Retail",
+    "Email": "contact@corporacionbeta.es"
+  },
+  {
+    "ID": "CUST000030",
+    "Name": "Helguera industrial",
+    "Address": "c/ Paz 5",
+    "City": "Madrid",
+    "Currency Code": "EUR",
+    "Country": "ES",
+    "Industry": "Retail",
+    "Email": "info@helguera.es"
+  },
+  {
+    "ID": "CUST000031",
+    "Name": "Bilabankinn",
+    "Address": "Skemmuvegur 4",
+    "City": "Kopavogur",
+    "Currency Code": "ISK",
+    "Country": "IS",
+    "Industry": "Retail",
+    "Email": "info@bilabankinn.is"
+  },
+  {
+    "ID": "CUST000032",
+    "Name": "Gagn & Gaman",
+    "Address": "Reykjavikurvegi 66",
+    "City": "Hafnafjordur",
+    "Currency Code": "ISK",
+    "Country": "IS",
+    "Industry": "Retail",
+    "Email": "contact@gagnogaman.is"
+  },
+  {
+    "ID": "CUST000033",
+    "Name": "Heimilisprydi",
+    "Address": "Hallarmula",
+    "City": "Reykjavik",
+    "Currency Code": "ISK",
+    "Country": "IS",
+    "Industry": "Retail",
+    "Email": "info@heimilisprydi.is"
+  },
+  {
+    "ID": "CUST000034",
+    "Name": "MEMA Ljubljana d.o.o.",
+    "Address": "Slovenska ccsta 127",
+    "City": "Ljubljana",
+    "Currency Code": "EUR",
+    "Country": "SI",
+    "Industry": "Retail",
+    "Email": "info@mema.si"
+  },
+  {
+    "ID": "CUST000035",
+    "Name": "EXPORTLES d.o.o.",
+    "Address": "Zvornarska ulica 5",
+    "City": "Ljubljana",
+    "Currency Code": "EUR",
+    "Country": "SI",
+    "Industry": "Retail",
+    "Email": "contact@exportles.si"
+  },
+  {
+    "ID": "CUST000036",
+    "Name": "Centromerkur d.o.o.",
+    "Address": "Tabor 23",
+    "City": "Maribor",
+    "Currency Code": "EUR",
+    "Country": "SI",
+    "Industry": "Retail",
+    "Email": "info@centromerkur.si"
+  },
+  {
+    "ID": "CUST000037",
+    "Name": "Deerfield Graphics Company",
+    "Address": "110 - 9th Avenue SW, 8th Floor",
+    "City": "Calgary",
+    "Currency Code": "CAD",
+    "Country": "CA",
+    "Industry": "Services",
+    "Email": "info@deerfieldgraphics.ca"
+  },
+  {
+    "ID": "CUST000038",
+    "Name": "Sonnmatt Design",
+    "Address": "Sonnmattstrasse 5",
+    "City": "Glattbrugg",
+    "Currency Code": "CHF",
+    "Country": "CH",
+    "Industry": "Retail",
+    "Email": "info@sonnmattdesign.ch"
+  },
+  {
+    "ID": "CUST000039",
+    "Name": "Pilatus AG",
+    "Address": "Bergstrasse 12",
+    "City": "Luzern",
+    "Currency Code": "CHF",
+    "Country": "CH",
+    "Industry": "Retail",
+    "Email": "contact@pilatus.ch"
+  },
+  {
+    "ID": "CUST000040",
+    "Name": "Möbel Scherrer AG",
+    "Address": "Rheinstrasse 2",
+    "City": "Schaffhausen",
+    "Currency Code": "CHF",
+    "Country": "CH",
+    "Industry": "Retail",
+    "Email": "info@mobelscherrer.ch"
+  },
+  {
+    "ID": "CUST000041",
+    "Name": "BYT-KOMPLET s.r.o.",
+    "Address": "V.Nezvala 5",
+    "City": "Bojkovice",
+    "Currency Code": "CZK",
+    "Country": "CZ",
+    "Industry": "Retail",
+    "Email": "info@bytkomplet.cz"
+  },
+  {
+    "ID": "CUST000042",
+    "Name": "J & V v.o.s.",
+    "Address": "Fillova 128",
+    "City": "Vracov",
+    "Currency Code": "CZK",
+    "Country": "CZ",
+    "Industry": "Retail",
+    "Email": "contact@jvvos.cz"
+  },
+  {
+    "ID": "CUST000043",
+    "Name": "PLECHKONSTRUKT a.s.",
+    "Address": "Loosova 14",
+    "City": "Znojmo",
+    "Currency Code": "CZK",
+    "Country": "CZ",
+    "Industry": "Retail",
+    "Email": "info@plechkonstrukt.cz"
+  },
+  {
+    "ID": "CUST000044",
+    "Name": "Designstudio Gmunden",
+    "Address": "Seepromenade 1b",
+    "City": "Gmunden",
+    "Currency Code": "EUR",
+    "Country": "AT",
+    "Industry": "Retail",
+    "Email": "info@designstudiogmunden.at"
+  },
+  {
+    "ID": "CUST000045",
+    "Name": "Michael Feit - Möbelhaus",
+    "Address": "Straße 33, Obj. 11",
+    "City": "Wr. Neudorf",
+    "Currency Code": "EUR",
+    "Country": "AT",
+    "Industry": "Retail",
+    "Email": "contact@michaelfeit.at"
+  },
+  {
+    "ID": "CUST000046",
+    "Name": "Möbel Siegfried",
+    "Address": "Raxstraße 47",
+    "City": "Wien",
+    "Currency Code": "EUR",
+    "Country": "AT",
+    "Industry": "Retail",
+    "Email": "info@mobelsiegfried.at"
+  },
+  {
+    "ID": "CUST000047",
+    "Name": "Zuni Home Crafts Ltd.",
+    "Address": "456 Main Street",
+    "City": "Dudley",
+    "Currency Code": "GBP",
+    "Country": "GB",
+    "Industry": "Retail",
+    "Email": "info@zunihomecrafts.co.uk"
+  },
+  {
+    "ID": "CUST000048",
+    "Name": "Afrifield Corporation",
+    "Address": "100 Maidstone Ave.",
+    "City": "Maidstone",
+    "Currency Code": "GBP",
+    "Country": "GB",
+    "Industry": "Retail",
+    "Email": "contact@afrifield.co.uk"
+  },
+  {
+    "ID": "CUST000049",
+    "Name": "London Light Company",
+    "Address": "235 Peachtree Street",
+    "City": "Cambridge",
+    "Currency Code": "GBP",
+    "Country": "GB",
+    "Industry": "Retail",
+    "Email": "info@londonlight.co.uk"
+  },
+  {
+    "ID": "CUST000050",
+    "Name": "Candoxy Kontor A/S",
+    "Address": "Carl Blochs Gade 7",
+    "City": "Arhus C",
+    "Currency Code": "DKK",
+    "Country": "DK",
+    "Industry": "Retail",
+    "Email": "info@candoxykontor.dk"
+  },
+  {
+    "ID": "CUST000051",
+    "Name": "Carl Anthony",
+    "Address": "De Mezas Plads 917B",
+    "City": "Arhus C",
+    "Currency Code": "DKK",
+    "Country": "DK",
+    "Industry": "Retail",
+    "Email": "contact@carlanthony.dk"
+  },
+  {
+    "ID": "CUST000052",
+    "Name": "Ravel Møbler",
+    "Address": "Parkvej 44",
+    "City": "Nyborg",
+    "Currency Code": "DKK",
+    "Country": "DK",
+    "Industry": "Retail",
+    "Email": "info@ravelmobler.dk"
+  },
+  {
+    "ID": "CUST000053",
+    "Name": "Lauritzen Kontormøbler A/S",
+    "Address": "Jomfru Ane Gade 56",
+    "City": "Alborg",
+    "Currency Code": "DKK",
+    "Country": "DK",
+    "Industry": "Retail",
+    "Email": "contact@lauritzen.dk"
+  },
+  {
+    "ID": "CUST000054",
+    "Name": "Marsholm Karmstol",
+    "Address": "Tylö Fackhandel",
+    "City": "Halmstad",
+    "Currency Code": "SEK",
+    "Country": "SE",
+    "Industry": "Retail",
+    "Email": "info@marsholm.se"
+  },
+  {
+    "ID": "CUST000055",
+    "Name": "Konberg Tapet AB",
+    "Address": "Linnégatan 15",
+    "City": "Jonkobing",
+    "Currency Code": "SEK",
+    "Country": "SE",
+    "Industry": "Retail",
+    "Email": "contact@konbergtapet.se"
+  },
+  {
+    "ID": "CUST000056",
+    "Name": "Englunds Kontorsmöbler AB",
+    "Address": "Kungsgatan 18",
+    "City": "Norrkobing",
+    "Currency Code": "SEK",
+    "Country": "SE",
+    "Industry": "Retail",
+    "Email": "info@englunds.se"
+  },
+  {
+    "ID": "CUST000057",
+    "Name": "Slubrevik Senger AS",
+    "Address": "Storgt. 5",
+    "City": "Asker",
+    "Currency Code": "NOK",
+    "Country": "NO",
+    "Industry": "Retail",
+    "Email": "info@slubrevik.no"
+  },
+  {
+    "ID": "CUST000058",
+    "Name": "Klubben",
+    "Address": "Skogveien 3",
+    "City": "Haslum",
+    "Currency Code": "NOK",
+    "Country": "NO",
+    "Industry": "Retail",
+    "Email": "contact@klubben.no"
+  },
+  {
+    "ID": "CUST000059",
+    "Name": "Sjøboden",
+    "Address": "Ytre Sandgt. 13",
+    "City": "Sandvika",
+    "Currency Code": "NOK",
+    "Country": "NO",
+    "Industry": "Retail",
+    "Email": "info@sjboden.no"
+  },
+  {
+    "ID": "CUST000060",
+    "Name": "Beef House",
+    "Address": "Südermarkt 6",
+    "City": "Dusseldorf",
+    "Currency Code": "EUR",
+    "Country": "DE",
+    "Industry": "Retail",
+    "Email": "info@beefhouse.de"
+  },
+  {
+    "ID": "CUST000061",
+    "Name": "Autohaus Mielberg KG",
+    "Address": "Porschestraße 911",
+    "City": "Hamburg 36",
+    "Currency Code": "EUR",
+    "Country": "DE",
+    "Industry": "Retail",
+    "Email": "contact@autohausmielberg.de"
+  },
+  {
+    "ID": "CUST000062",
+    "Name": "Hotel Pferdesee",
+    "Address": "Plett Straße 187",
+    "City": "Frankfurt/Main",
+    "Currency Code": "EUR",
+    "Country": "DE",
+    "Industry": "Retail",
+    "Email": "info@hotelpferdesee.de"
+  },
+  {
+    "ID": "CUST000063",
+    "Name": "Concord Water Department",
+    "Address": "858 Beatty Street, 6th Floor",
+    "City": "Vancouver",
+    "Currency Code": "CAD",
+    "Country": "CA",
+    "Industry": "Services",
+    "Email": "info@concordwater.ca"
+  },
+  {
+    "ID": "CUST000064",
+    "Name": "Cronus Cardoxy Sales",
+    "Address": "Ligeudvej 24",
+    "City": "Copenhagen",
+    "Currency Code": "DKK",
+    "Country": "DK",
+    "Industry": "Retail",
+    "Email": "info@cronuscardoxy.dk"
+  },
+  {
+    "ID": "CUST000065",
+    "Name": "Cronus Cardoxy Procurement",
+    "Address": "Geradeausweg 77",
+    "City": "Hamburg",
+    "Currency Code": "EUR",
+    "Country": "DE",
+    "Industry": "Retail",
+    "Email": "contact@cronuscardoxy.de"
+  },
+  {
+    "ID": "CUST000066",
+    "Name": "Nordic Solutions A/S",
+    "Address": "Innovation Park 45",
+    "City": "Copenhagen",
+    "Currency Code": "DKK",
+    "Country": "DK",
+    "Industry": "Technology",
+    "Email": "info@nordicsolutions.dk"
+  },
+  {
+    "ID": "CUST000067",
+    "Name": "Digital Dynamics GmbH",
+    "Address": "Technologie Ring 78",
+    "City": "Munich",
+    "Currency Code": "EUR",
+    "Country": "DE",
+    "Industry": "Technology",
+    "Email": "contact@digitaldynamics.de"
+  },
+  {
+    "ID": "CUST000068",
+    "Name": "EcoSmart Solutions Ltd.",
+    "Address": "Sustainable Way 123",
+    "City": "Manchester",
+    "Currency Code": "GBP",
+    "Country": "GB",
+    "Industry": "Manufacturing",
+    "Email": "info@ecosmartsolutions.co.uk"
+  },
+  {
+    "ID": "CUST000069",
+    "Name": "Med-Tech Innovations S.A.",
+    "Address": "Avenue de la Recherche 55",
+    "City": "Brussels",
+    "Currency Code": "EUR",
+    "Country": "BE",
+    "Industry": "Healthcare",
+    "Email": "contact@medtechinno.be"
+  },
+  {
+    "ID": "CUST000070",
+    "Name": "SmartBuild Construction Corp.",
+    "Address": "Enterprise Boulevard 890",
+    "City": "Toronto",
+    "Currency Code": "CAD",
+    "Country": "CA",
+    "Industry": "Construction",
+    "Email": "info@smartbuild.ca"
+  },
+  {
+    "ID": "CUST000071",
+    "Name": "Global Logistics Partners Oy",
+    "Address": "Logistics Park 234",
+    "City": "Helsinki",
+    "Currency Code": "EUR",
+    "Country": "FI",
+    "Industry": "Services",
+    "Email": "contact@glpartners.fi"
+  },
+  {
+    "ID": "CUST000072",
+    "Name": "NextGen Retail Systems AB",
+    "Address": "Innovation Street 67",
+    "City": "Stockholm",
+    "Currency Code": "SEK",
+    "Country": "SE",
+    "Industry": "Technology",
+    "Email": "info@nextgenretail.se"
+  },
+  {
+    "ID": "CUST000073",
+    "Name": "Alpine Healthcare Solutions AG",
+    "Address": "Medizin Strasse 101",
+    "City": "Zurich",
+    "Currency Code": "CHF",
+    "Country": "CH",
+    "Industry": "Healthcare",
+    "Email": "contact@alpinehealthcare.ch"
+  },
+  {
+    "ID": "CUST000074",
+    "Name": "Smart Office Systems B.V.",
+    "Address": "Business Park 445",
+    "City": "Rotterdam",
+    "Currency Code": "EUR",
+    "Country": "NL",
+    "Industry": "Technology",
+    "Email": "info@smartoffice.nl"
+  },
+  {
+    "ID": "CUST000075",
+    "Name": "Mediterranean Construction S.L.",
+    "Address": "Avenida del Mar 89",
+    "City": "Barcelona",
+    "Currency Code": "EUR",
+    "Country": "ES",
+    "Industry": "Construction",
+    "Email": "contact@medconstruct.es"
+  }
+]
