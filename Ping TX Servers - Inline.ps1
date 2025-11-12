@@ -4,7 +4,8 @@ $targets = @(
     @{Host = "auth0.com"; Port = 443},
     @{Host = "eu.auth0.com"; Port = 443},
     @{Host = "cdn.auth0.com"; Port = 443},
-    @{Host = "login.exmon.com"; Port = 443},    
+    @{Host = "login.exmon.com"; Port = 443},
+    @{Host = "login.timextender.com"; Port = 443},
     @{Host = "sql-exmon-prod-001.database.windows.net"; Port = 1433},
     @{Host = "sql-instances-prod.database.windows.net"; Port = 1433},
     @{Host = "app.timextender.com"; Port = 443},
@@ -26,3 +27,4 @@ foreach ($target in $targets) {
 }
 
 Pause
+
