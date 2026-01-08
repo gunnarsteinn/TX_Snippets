@@ -31,7 +31,8 @@ select tv.task_id, tv.task_type, tv.title, s.system_name,  tv.*,
     queries.ds1_query, queries.ds2_query, 
     c1.connection_name as ds1_connection_name, c1.host_type as ds1_host_type, 
     c2.connection_name as ds2_connection_name, c2.host_type as ds2_host_type,
-    queries.saved_date, u.email as owner_email, queries.exception_email_cc
+    queries.saved_date, u.email as owner_email, queries.exception_email_cc,
+    e.start_date, e.success_ind, e.row_count, e.duration_seconds
 from exmondg.t_task_version tv
 left join (
     select event_id as task_id, 'EBI_EVENT' as task_type, e.version_id, e.saved_date, e.owner_user_id, e.exception_email_cc, e.sql_command as ds1_query, e.connection_guid as ds1_connection, null as ds2_query, null as ds2_connection
@@ -48,6 +49,11 @@ left join exmondg.a_system s ON tv.system_id = s.system_id
 left join (select max(connection_name) as connection_name, connection_guid, max(host_type) as host_type from exmondg.c_connection group by connection_guid) c1 ON queries.ds1_connection = c1.connection_guid
 left join (select max(connection_name) as connection_name, connection_guid, max(host_type) as host_type from exmondg.c_connection group by connection_guid) c2 ON queries.ds2_connection = c2.connection_guid
 left join exmondg.c_user u ON queries.owner_user_id = u.user_id
+left join (
+    select task_id, task_type, max(exec_id) as max_exec_id
+    from reporting.execution
+    group by task_id, task_type
+) latest_exec ON latest_exec.task_id = tv.task_id and latest_exec.task_type = tv.task_type
+left join reporting.execution e ON e.exec_id = latest_exec.max_exec_id
 where tv.task_type in ('EBI_EVENT','EBI_VALIDATION')
-
 
