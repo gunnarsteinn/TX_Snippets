@@ -27,7 +27,7 @@ left join exmondg.t_task_version ctv_task ON ogi.object_type=ctv_task.task_type 
 where ogi.object_type not in ('OBJ_GROUP_STEP')
 
 -- Query to get all tasks with their queries, connections, owners, and system names
-select tv.task_id, tv.task_type, tv.title, s.system_name,  tv.*,
+select tv.task_id, tv.task_type, tv.title, s.system_name, 
     queries.ds1_query, queries.ds2_query, 
     c1.connection_name as ds1_connection_name, c1.host_type as ds1_host_type, 
     c2.connection_name as ds2_connection_name, c2.host_type as ds2_host_type,
@@ -56,4 +56,23 @@ left join (
 ) latest_exec ON latest_exec.task_id = tv.task_id and latest_exec.task_type = tv.task_type
 left join reporting.execution e ON e.exec_id = latest_exec.max_exec_id
 where tv.task_type in ('EBI_EVENT','EBI_VALIDATION')
+
+
+
+
+--- Query all execution packages
+select tv.task_id, tv.task_type, tv.title, s.system_name,
+    e.start_date, e.success_ind, e.duration_seconds,
+    p.saved_date, p.package_type_id, pt.package_type
+from exmondg.t_task_version tv
+left join exmondg.a_package p ON tv.task_id = p.package_id and tv.version_id = p.version_id
+left join exmondg.a_package_type pt ON p.package_type_id = pt.package_type_id
+left join exmondg.a_system s ON tv.system_id = s.system_id
+left join (
+    select task_id, task_type, max(exec_id) as max_exec_id
+    from reporting.execution
+    group by task_id, task_type
+) latest_exec ON latest_exec.task_id = tv.task_id and latest_exec.task_type = tv.task_type
+left join reporting.execution e ON e.exec_id = latest_exec.max_exec_id
+where tv.task_type = 'EBI_PACKAGE'
 
